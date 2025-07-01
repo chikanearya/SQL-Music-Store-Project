@@ -1,4 +1,4 @@
-# SQL-Music-Store-Project
+# SQL_Music_Store_Project
 
 This project showcases a series of SQL queries designed to analyze data from a music store database. The goal is to uncover actionable business insights related to customer behavior, revenue trends, and musical preferences through structured SQL analysis.
 
